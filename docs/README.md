@@ -20,4 +20,4 @@ Dev & Staff & ADMIN: Sa3ura Jerry IQBoost(Xzai)
 
 我们不奴属于Microsoft | Mojang | Hypixel Network
 
-只是单纯想让玩家的游玩体验更好.
+面朝大海 春暖花开 服务会凭着你的使用态度而变化
