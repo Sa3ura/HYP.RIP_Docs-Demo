@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Welcome](README.md)
-  * [Free Proxy](welcome/freeproxy.md)
+* [Welcome Page](README.md)
+  * [Free Proxy](welcome-page/freeproxy.md)
   * [Buy (CloudFlare)](https://sa3ura.tech)
   * [Buy (中国境内加速)](https://sa3ura.icu)
   * [HYP.RIP 控制台 (快速)](https://ip.hyp.rip/login)

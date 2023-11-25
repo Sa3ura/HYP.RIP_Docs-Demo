@@ -12,5 +12,12 @@ layout:
     visible: false
 ---
 
-# Welcome
+# Welcome Page
 
+HYP.RIP  - Proxy For Hypixel Network.
+
+Dev & Staff & ADMIN: Sa3ura Jerry IQBoost(Xzai)
+
+我们不奴属于Microsoft | Mojang | Hypixel Network
+
+只是单纯想让玩家的游玩体验更好.
