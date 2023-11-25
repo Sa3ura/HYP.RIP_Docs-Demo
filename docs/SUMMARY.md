@@ -1,13 +1,14 @@
 # Table of contents
 
-* [Welcome Page](README.md)
-  * [Free Proxy](welcome-page/freeproxy.md)
-  * [Buy (CloudFlare)](https://sa3ura.tech)
-  * [Buy (中国境内加速)](https://sa3ura.icu)
+* [Welcome](README.md)
+  * [Free Proxy](welcome/freeproxy.md)
+  * [购买 HYP.RIP(CloudFlare)](https://sa3ura.tech)
+  * [购买 HYP.RIP(亚太加速)](https://sa3ura.icu)
   * [HYP.RIP 控制台 (快速)](https://ip.hyp.rip/login)
-  * [HYP.RIP 控制台 (CloudFlare)](https://violet.wiki)
+  * [HYP.RIP 控制台 (高防)](https://violet.wiki)
 
-## HYP.RIP 使用教程 <a href="#use" id="use"></a>
+## HYP.RIP 使用教程 <a href="#tutorial" id="tutorial"></a>
 
-* [充值和开通](use/register.md)
-* [登录与使用](use/deng-lu-yu-shi-yong.md)
+* [充值 | 开通](tutorial/register-recharge.md)
+* [登录 | 使用](tutorial/login-use.md)
+* [疑难杂症解决](tutorial/intractable-diseases.md)
