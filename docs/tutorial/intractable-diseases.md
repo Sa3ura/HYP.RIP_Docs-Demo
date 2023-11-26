@@ -47,4 +47,6 @@ A：有傻逼在DDoS。
 
 A：在后面加一个Logout就可以了，或者你可以等cookies过期，需要重新登录。
 
+`https://ip.hyp.rip/logout`
+
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
