@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-  * [公益加速](welcome/freeproxy.md)
+  * [公益加速IP](welcome/freeproxy.md)
   * [官方购买 HYP.RIP (亚太)](https://sa3ura.icu)
   * [官方购买 HYP.RIP (CF)](https://sa3ura.tech)
   * [HYP.RIP 控制台 (亚太)](https://hyp.rip)

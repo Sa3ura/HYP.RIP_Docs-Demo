@@ -14,7 +14,9 @@ layout:
 
 # Welcome
 
-HYP.RIP - Proxy of bypass IP Ban For Hypixel Network. (Service only for Chinese)
+HYP.RIP - Proxy of bypass IP Ban for Hypixel Network.
+
+&#x20;(Service only for chinese)
 
 Dev & Staff & ADMIN: Sa3ura Jerry Xzai
 
