@@ -2,7 +2,7 @@
 
 此页面为解决一些人存在的疑难杂症。
 
-### Q：我添加了服务器，但是解析很慢或者一直显示连接不到服务器怎么办？
+### Q：我添加了服务器，但是显示不能连接服务器怎么办？
 
 A：下载交流群内的DnsJumper压缩包，并解压，选中DnsJumper.exe并右键以管理员身份运行。
 
@@ -35,18 +35,14 @@ ipconfig /flushdns
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-之后重启您的计算机，然后重新打开客户端，即可修复解析问题。
-
-此页面会继续跟进存在的疑难杂症，如果你还有什么问题，可以在交流群中询问。
+之后重启您的计算机，然后重新打开客户端，即可修复无法连接服务器的问题。
 
 ### Q：为什么控制台进不去了？
 
 A：有傻逼在DDoS。
 
-### Q：我有两个账号，我怎么退出登录？
+### Q：我添加了服务器，但是显示不能解析主机名怎么办？
 
-A：在后面加一个Logout就可以了，或者你可以等cookies过期，需要重新登录。
+A：确定你使用的是Java8来启动的客户端，并且你的客户端需支持SRV解析。
 
-`https://ip.hyp.rip/logout`
-
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+如果你满足以上两个条件还是不能解析，那么使用DnsJumper或把DNS更改到8.8.8.8和8.8.8.4即可。
