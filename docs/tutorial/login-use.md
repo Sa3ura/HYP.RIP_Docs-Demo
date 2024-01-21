@@ -24,6 +24,12 @@
 
 <mark style="color:red;">**等待**</mark>页面跳转关闭成功，会返回一个带有使用时间，扣除加速币，和当前时间的JSON。
 
+服务使用高峰期为 0.011/分钟 (一般为周末或假期)&#x20;
+
+普通段时间为0.009/分钟
+
+具体可能根据当时情况进行一些更改，最终解释权为 HYP.RIP 管理团队所有。
+
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>关闭成功返回页面</p></figcaption></figure>
 
 并会在重新开启IP时更换落地地址以防止您被Hypixel安全警报。
